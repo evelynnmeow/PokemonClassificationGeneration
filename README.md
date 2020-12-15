@@ -7,11 +7,18 @@ This project uses convolutional neural network to identify the type of Pokemon a
 
 ### Files and Directories
 images: Performance plots for each CNN models
+
 Pokemon_4Classes.ipynb: CNN model for Pokemon type detection using 4 classes
+
 Pokemon_3Classes.ipynb: CNN model for Pokemon type detection using 3 classes
+
 Pokemon_2Classes.ipynb: CNN model for Pokemon type detection using 2 classes
+
 gray_4_classes.ipynb: Baseline CNN model for (gray scale) Pokemon type detection using 4 classes
+
 gray_3_2_classes.ipynb: Baseline CNN model for (gray scale) Pokemon type detection using 3 classes and 2 classes
+
 Generate_Pokemon.ipynb: GAN model to generate new Pokemon
+
 Pokemon_Gen.ipynb: CNN model for Pokemon generation classification
 
