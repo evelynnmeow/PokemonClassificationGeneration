@@ -3,22 +3,24 @@
 ##### Author: Jingjie Ma (evelynjingjiema@gmail.com), Han Zhang (hz274@georgetown.edu)
 
 ### About
-This project uses convolutional neural network to identify the type of Pokemon and uses general adversarial neural network to generate new Pokemon.
+This project uses Convolutional Neural Networks to identify the type of Pokemon and uses Generative Adversarial Networks to generate new Pokemon.
 
 ### Files and Directories
-images: Performance plots for each CNN models
+[ANLY590ProjectWriteUp.pdf](https://github.com/evelynnmeow/PokemonClassificationGeneration/blob/main/ANLY590ProjectWriteUp.pdf): Project write up as a pdf file
 
-Pokemon_4Classes.ipynb: CNN model for Pokemon type detection using 4 classes
+[images](https://github.com/evelynnmeow/PokemonClassificationGeneration/tree/main/images): Performance plots for each CNN models
 
-Pokemon_3Classes.ipynb: CNN model for Pokemon type detection using 3 classes
+[Pokemon_4Classes.ipynb](https://github.com/evelynnmeow/PokemonClassificationGeneration/blob/main/Pokemon_4Classes.ipynb): CNN model for Pokemon type detection using 4 classes
 
-Pokemon_2Classes.ipynb: CNN model for Pokemon type detection using 2 classes
+[Pokemon_3Classes.ipynb](https://github.com/evelynnmeow/PokemonClassificationGeneration/blob/main/Pokemon_3Classes.ipynb): CNN model for Pokemon type detection using 3 classes
 
-gray_4_classes.ipynb: Baseline CNN model for (gray scale) Pokemon type detection using 4 classes
+[Pokemon_2Classes.ipynb](https://github.com/evelynnmeow/PokemonClassificationGeneration/blob/main/Pokemon_2Classes.ipynb): CNN model for Pokemon type detection using 2 classes
 
-gray_3_2_classes.ipynb: Baseline CNN model for (gray scale) Pokemon type detection using 3 classes and 2 classes
+[gray_4_classes.ipynb](https://github.com/evelynnmeow/PokemonClassificationGeneration/blob/main/gray_4_classes.ipynb): Baseline CNN model for (gray scale) Pokemon type detection using 4 classes
 
-Generate_Pokemon.ipynb: GAN model to generate new Pokemon
+[gray_3_2_classes.ipynb](https://github.com/evelynnmeow/PokemonClassificationGeneration/blob/main/gray_3_2_classes.ipynb): Baseline CNN model for (gray scale) Pokemon type detection using 3 classes and 2 classes
 
-Pokemon_Gen.ipynb: CNN model for Pokemon generation classification
+[Generate_Pokemon.ipynb](https://github.com/evelynnmeow/PokemonClassificationGeneration/blob/main/Generate_Pokemon.ipynb): GAN model for generating new Pokemon
+
+[Pokemon_Gen.ipynb](https://github.com/evelynnmeow/PokemonClassificationGeneration/blob/main/Pokemon_Gen.ipynb): CNN model for Pokemon generation classification
 
